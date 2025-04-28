@@ -78,6 +78,10 @@
         "Auto-click BigCookie during frenzy/click frenzy, not needed if you already use the main 'AutoClick' feature.",
       fortuneName: "Auto Fortune",
       fortuneDescription: "Auto-click on News ticker fortunes.",
+      autoAscendName: 'Auto Ascend',
+      autoAscendDescription: 'Set the required prestige points to automatically ascend at',
+      autoAscendPrestigeThreshold: 'Prestige Points Threshold',
+      prestigePoints: 'Prestige Points',
       ascendluckName: "Ascend Luck",
       ascendluckDescription:
         "Used for unlocking Lucky digit, Lucky number, and Lucky payout. Automatically Ascends you when conditions are met and toggles this feature to off. Turn back on manually if you have more to unlock. Does not buy the Heavenly upgrade for you.",
@@ -188,6 +192,11 @@
       fortuneName: "Fortune Automatique",
       fortuneDescription:
         "Clique automatiquement sur les fortunes de la bande de nouvelles.",
+      autoAscendName: 'Ascension Automatique',
+      autoAscendDescription:
+        'Définir les points de prestige requis pour ascension automatique à',
+      autoAscendPrestigeThreshold: 'Seuil de points de prestige',
+      prestigePoints: 'Points de prestige',
       ascendluckName: "Chance d'Ascension",
       ascendluckDescription:
         "Utilisé pour débloquer le chiffre Chanceux, le numéro Chanceux, et le paiement Chanceux. Vous fait Ascendre automatiquement lorsque les conditions sont remplies et désactive cette fonction. Réactivez manuellement si vous avez plus à débloquer. N'achète pas la mise à jour Céleste pour vous.",
@@ -296,6 +305,11 @@
       fortuneName: "Auto-Glück",
       fortuneDescription:
         "Automatisches Klicken auf Nachrichten-Ticker Glücksfälle.",
+      autoAscendName: 'Auto Aufstieg',
+      autoAscendDescription:
+        'Setze die erforderlichen Prestige-Punkte, um automatisch aufzusteigen bei',
+      autoAscendPrestigeThreshold: 'Prestige Punkte Schwellenwert',
+      prestigePoints: 'Prestige Punkte',
       ascendluckName: "Aufstiegs-Glück",
       ascendluckDescription:
         "Verwendet, um Glückszahl, Glücksziffer und Glücksauszahlung freizuschalten. Steigt automatisch auf, wenn Bedingungen erfüllt sind und schaltet diese Funktion aus. Manuell wieder einschalten, wenn du mehr freischalten musst. Kauft nicht das himmlische Upgrade für dich.",
@@ -402,6 +416,11 @@
         "Klikt automatisch op Grote Koek tijdens frenzy/klik frenzy, niet nodig als je al de hoofd 'AutoKlik' functie gebruikt.",
       fortuneName: "Auto Fortuin",
       fortuneDescription: "Klikt automatisch op Nieuws ticker fortuinen.",
+      autoAscendName: 'Auto Opstijgen',
+      autoAscendDescription:
+        'Stel de vereiste prestige punten in om automatisch op te stijgen bij',
+      autoAscendPrestigeThreshold: 'Prestige Punten Drempel',
+      prestigePoints: 'Prestige Punten',
       ascendluckName: "Opstijgen Geluk",
       ascendluckDescription:
         "Gebruikt voor het ontgrendelen van Gelukkig getal, Gelukkig nummer, en Gelukkige uitbetaling. Laat je automatisch opstijgen wanneer de voorwaarden zijn voldaan en schakelt deze functie uit. Zet handmatig weer aan als je meer te ontgrendelen hebt. Koopt niet de Hemelse upgrade voor jou.",
@@ -504,6 +523,11 @@
         "Automatické klikání na Velkou sušenku během frenzy/klik frenzy, není potřeba, pokud už používáte hlavní funkci 'AutoKlik'.",
       fortuneName: "Auto-Fortuna",
       fortuneDescription: "Automatické klikání na Zprávy ticker fortuny.",
+      autoAscendName: 'Auto Vzestup',
+      autoAscendDescription:
+        'Nastavit požadované prestižní body pro automatický vzestup na',
+      autoAscendPrestigeThreshold: 'Práh prestižních bodů',
+      prestigePoints: 'Prestige body',
       ascendluckName: "Štěstí při Vzestupu",
       ascendluckDescription:
         "Používá se pro odemknutí Šťastné číslice, Šťastného čísla a Šťastné výplaty. Automaticky provede Vzestup, když jsou splněny podmínky a vypne tuto funkci. Zapněte znovu ručně, pokud máte další k odemčení. Nezakoupí za vás Nebeské vylepšení.",
@@ -603,6 +627,11 @@
         "Automatyczne klikanie na Duże Ciastko podczas frenzy/klik frenzy, niepotrzebne jeśli używasz już głównej funkcji 'AutoKlik'.",
       fortuneName: "Auto-Fortuna",
       fortuneDescription: "Automatyczne klikanie na wiadomości ticker fortun.",
+      autoAscendName: 'Auto-Wzniesienie',
+      autoAscendDescription:
+        'Ustaw wymagane punkty prestiżu do automatycznego wzniesienia przy',
+      autoAscendPrestigeThreshold: 'Próg punktów prestiżu',
+      prestigePoints: 'Punkty prestiżu',
       ascendluckName: "Szczęście Wzniesienia",
       ascendluckDescription:
         "Używane do odblokowania Szczęśliwej cyfry, Szczęśliwej liczby i Szczęśliwej wypłaty. Automatycznie Wznosi cię, gdy warunki są spełnione i wyłącza tę funkcję. Włącz ponownie ręcznie, jeśli masz więcej do odblokowania. Nie kupuje za ciebie ulepszenia Niebiańskiego.",
@@ -704,6 +733,11 @@
       fortuneName: "Auto Fortuna",
       fortuneDescription:
         "Clic automatico sulle fortune del ticker delle notizie.",
+      autoAscendName: "Auto Ascensione",
+      autoAscendDescription:
+        "Imposta i punti di prestigio richiesti per l'ascensione automatica a",
+      autoAscendPrestigeThreshold: "Soglia Punti di Prestigio",
+      prestigePoints: "Punti di Prestigio",
       ascendluckName: "Fortuna dell'Ascensione",
       ascendluckDescription:
         "Utilizzato per sbloccare Cifra Fortunata, Numero Fortunato e Pagamento Fortunato. Ascende automaticamente quando le condizioni sono soddisfatte e disattiva questa funzione. Riattiva manualmente se hai altro da sbloccare. Non acquista l'aggiornamento Celeste per te.",
@@ -809,6 +843,11 @@
       fortuneName: "Auto Fortuna",
       fortuneDescription:
         "Clic automático en las fortunas del ticker de noticias.",
+      autoAscendName: "Auto Ascensión",
+      autoAscendDescription:
+        "Establece los puntos de prestigio requeridos para la ascensión automática a",
+      autoAscendPrestigeThreshold: "Umbral de Puntos de Prestigio",
+      prestigePoints: "Puntos de Prestigio",
       ascendluckName: "Suerte de Ascensión",
       ascendluckDescription:
         "Usado para desbloquear Dígito de la suerte, Número de la suerte y Pago de la suerte. Asciende automáticamente cuando se cumplen las condiciones y desactiva esta función. Vuelve a activar manualmente si tienes más para desbloquear. No compra la mejora Celestial por ti.",
@@ -915,6 +954,11 @@
       fortuneName: "Auto-Fortuna",
       fortuneDescription:
         "Clique automático nas fortunas do ticker de notícias.",
+      autoAscendName: "Auto-Ascensão",
+      autoAscendDescription:
+        "Defina os pontos de prestígio necessários para a ascensão automática em",
+      autoAscendPrestigeThreshold: "Limite de Pontos de Prestígio",
+      prestigePoints: "Pontos de Prestígio",
       ascendluckName: "Sorte de Ascensão",
       ascendluckDescription:
         "Usado para desbloquear Dígito da Sorte, Número da Sorte e Pagamento da Sorte. Ascende automaticamente quando as condições são atendidas e desliga este recurso. Ligue novamente manualmente se você tiver mais para desbloquear. Não compra a melhoria Celestial por você.",
@@ -1015,6 +1059,11 @@
       fortuneName: "フォーチュン自動",
       fortuneDescription:
         "ニュースティッカーのフォーチュンを自動クリックします。",
+      autoAscendName: "自動昇天",
+      autoAscendDescription:
+        "自動昇天のために必要な名声ポイントを設定します。",
+      autoAscendPrestigeThreshold: "名声ポイントのしきい値",
+      prestigePoints: "名声ポイント",
       ascendluckName: "昇天の運",
       ascendluckDescription:
         "ラッキーディジット、ラッキーナンバー、ラッキーペイアウトを解除するために使用します。条件が満たされたら自動的に昇天し、この機能をオフにします。さらに解除するものがある場合は、手動で再度オンにしてください。天国のアップグレードは自動で購入しません。",
@@ -1110,6 +1159,11 @@
         "在狂热/点击狂热期间自动点击大饼干，如果你已经使用了主要的'自动点击'功能，则不需要。",
       fortuneName: "自动财富",
       fortuneDescription: "自动点击新闻提示栏的财富。",
+      autoAscendName: "自动升天",
+      autoAscendDescription:
+        "设置自动升天所需的声望点数，达到后自动升天。",
+      autoAscendPrestigeThreshold: "声望点数阈值",
+      prestigePoints: "声望点数",
       ascendluckName: "升天运气",
       ascendluckDescription:
         "用于解锁幸运数字、幸运号码和幸运支付。当条件满足时自动升天，并关闭此功能。如果你还有更多要解锁的，需要手动重新开启。不会为你购买天堂升级。",
@@ -1206,6 +1260,11 @@
         "Автоматический клик по Большому Печенью во время френзи/клик френзи, не нужно, если вы уже используете основную функцию 'Авто-Клик'.",
       fortuneName: "Авто-Фортуна",
       fortuneDescription: "Автоматический клик по фортунам в тикере новостей.",
+      autoAscendName: "Авто-Вознесение",
+      autoAscendDescription:
+        "Установите количество очков престижа, необходимых для автоматического вознесения.",
+      autoAscendPrestigeThreshold: "Порог Очков Престижа",
+      prestigePoints: "Очки Престижа",
       ascendluckName: "Удача Вознесения",
       ascendluckDescription:
         "Используется для разблокировки Счастливой Цифры, Счастливого Номера и Счастливого Выплаты. Автоматически возносит вас, когда условия выполнены, и отключает эту функцию. Включите вручную, если у вас есть еще что разблокировать. Не покупает за вас Небесное улучшение.",
@@ -1270,6 +1329,7 @@
     gold: 0, // AutoClick Special
     frenzy: 0, // AutoClick Frenzy
     fortune: 0, // Auto Fortune
+    autoAscend: 0, // Auto Ascend
     ascendluck: 0, // Ascend Luck
     wrinklers: 0, // Auto Wrinklers
     wrinklersmax: -1, // Max amount of Wrinklers to pop automatically
@@ -1382,6 +1442,14 @@
             0: ACABMTranslate("optionOff"),
             1: ACABMTranslate("optionOn"),
           },
+        },
+        autoAscend: {
+          name: ACABMTranslate("autoAscendName"),
+          description: ACABMTranslate("autoAscendDescription"),
+          values: {
+            0: ACABMTranslate("optionOff"),
+            1: ACABMTranslate("optionOn"),
+          }
         },
         ascendluck: {
           name: ACABMTranslate("ascendluckName"),
@@ -1673,6 +1741,7 @@
             },
             krumblor: { delay: 200, func: () => this.krumblor() },
             frenzy: { delay: 50, func: () => this.frenzyClick() },
+            autoAscend: { delay: 1000, func: () => this.autoAscend() },
             gold: { delay: 250, func: () => this.gold() },
             ascendluck: { delay: 30, func: () => this.ascendluck() },
             fortune: { delay: 2000, func: () => this.fortune() },
@@ -2100,6 +2169,30 @@
             +"</p>";
           }
           this.say(msg);
+        }
+
+        /**
+         * The `autoAscend` function is responsible for automatically ascending the game when
+         * a set amount of prestige points is reached.
+         */
+        autoAscend() {
+          if (ACABM.settings.isAscending) return;
+          if (Game.ascensionMode !== 0) return;
+          const currentlyAvailablePrestigePoints = Game.ascendMeterLevel;
+          if (
+            ACABM.settings.autoAscend !== 0 &&
+            currentlyAvailablePrestigePoints >= ACABM.settings.autoAscend
+          ) {
+            ACABM.settings.isAscending = true;
+            Game.Ascend(1);
+            setTimeout(() => {
+                Game.ClosePrompt();
+                Game.Reincarnate(1);
+            }, 8000);
+            setTimeout(() => {
+              ACABM.settings.isAscending = false;
+            }, 10000);
+          }
         }
 
         /**
@@ -2859,7 +2952,13 @@
         a.className = `${smallFancyButtonClass} ${prefButtonClass} option${
           settings[id] > 0 ? "" : " off"
         }`;
-        a.innerText = `${name} ${values[settings[id]]}`;
+        let settingValue;
+        if (id === 'autoAscend') {
+          settingValue = settings[id] && Number(settings[id]) > 0 ? 1 : 0;
+        } else {
+          settingValue = settings[id];
+        }
+        a.innerText = `${name} ${values[settingValue]}`;
         a.onclick = function () {
           const newValue = (settings[id] + 1) % Object.entries(values).length;
           settings[id] = newValue;
@@ -2877,6 +2976,8 @@
             settings.options.indexOf("AWExpand") == -1
           ) {
             settings.options.push("AWExpand");
+          } else if (id == 'autoAscend' && settings[id] && settings.options.indexOf("AAExpand") == -1) {
+            settings.options.push("AAExpand");
           } else if (
             id === "gold" &&
             settings[id] &&
@@ -2923,6 +3024,14 @@
           let expandCollapseBtn = createExpandCollapseButton(
             "AWExpand",
             ".wrinklersContent"
+          );
+          listing.appendChild(expandCollapseBtn);
+        }
+
+        if(id === "autoAscend") {
+          let expandCollapseBtn = createExpandCollapseButton(
+            "AAExpand",
+            ".autoAscendContent"
           );
           listing.appendChild(expandCollapseBtn);
         }
@@ -3226,6 +3335,32 @@
 
           labelwrinklers.appendChild(lineDiv);
           listing.appendChild(labelwrinklers);
+        } else if (id === "autoAscend") {
+            var labelautoAscend = document.createElement("div");
+            labelautoAscend.className = "autoAscendContent";
+            labelautoAscend.style.display = settings.autoAscend !== 0 ? "block" : "none";
+            const prestigePointsTranslation = ACABMTranslate("prestigePoints");
+            var slider = createSlider(
+            "ACABMAutoAscendSlider",
+            loc(ACABMTranslate("autoAscendPrestigeThreshold")),
+            "[$] " + prestigePointsTranslation,
+            function () {
+              return settings["autoAscend"] || 1;
+            },
+            0,
+            10000,
+            1,
+            "Game.mods['" +
+              ACABMName +
+              "'].settings.autoAscend=Number(l('ACABMAutoAscendSlider').value);l('ACABMAutoAscendSliderRightText').innerHTML=l('ACABMAutoAscendSlider').value + " + `' ' + '${prestigePointsTranslation}';`
+            );
+            labelautoAscend.innerHTML = slider;
+
+            var lineDiv = document.createElement("div");
+            lineDiv.className = "line";
+
+            labelautoAscend.appendChild(lineDiv);
+            listing.appendChild(labelautoAscend);
         } else if (id === "gold") {
           var labelgold = document.createElement("div");
           labelgold.className = "goldContent";
